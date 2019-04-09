@@ -1,2 +1,2 @@
 # IDA-PRO-SIG
-FLIRTDB
+IDA PRO signature files
